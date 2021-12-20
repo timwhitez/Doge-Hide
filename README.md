@@ -1,2 +1,2 @@
 # Doge-Hide
-golang hide console window
+windows API to hide console window by golang
