@@ -8,6 +8,8 @@ ShowWindowAsync
 
 FreeConsole
 
+FindWindowA + ShowWindow
+
 go build -ldflags "-H windowsgui"
 
 ```
